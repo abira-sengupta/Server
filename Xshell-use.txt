@@ -1,0 +1,9 @@
+Xshell 8 
+source ./icml/bin/activate (To activate the python virtual environment)
+
+jupyter notebook --no-browser (to run the Jupyter notebook)
+
+http://localhost:8888/tree?token=fb0b757af9dd9274e36bd5e045b760d14c7f22ff815541e2 (in browser, but mind it token will change time to time)
+
+
+
